@@ -1,5 +1,5 @@
 # Jut.su Extension 
-Browser extension for [Jut.su](https://jut.su/)
+Browser extension for [Jut.su](https://jut.su/) (also supports dynamic domains like jutsu91.ru)
 
 ## Features:
 * Automatically plays video 💪
