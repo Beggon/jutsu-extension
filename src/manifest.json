@@ -17,7 +17,8 @@
     "content_scripts": [
         {
             "matches": [
-                "https://*.jut.su/*"
+                "https://*.jut.su/*",
+                "https://jutsu*.ru/*"
             ],
             "js": [
                 "inject/index.js"
@@ -36,7 +37,8 @@
                 "icons/pip-icon.png"
             ],
             "matches": [
-                "https://*.jut.su/*"
+                "https://*.jut.su/*",
+                "https://jutsu*.ru/*"
             ]
         }
     ],
@@ -44,6 +46,7 @@
         "storage"
     ],
     "host_permissions": [
-        "https://*.jut.su/*"
+        "https://*.jut.su/*",
+        "https://jutsu*.ru/*"
     ]
 }

@@ -1,9 +1,11 @@
 {
+    "default_locale": "en",
     "background": {
         "page": "background/index.html"
     },
     "permissions": [
         "storage",
-        "https://*.jut.su/*"
+        "https://*.jut.su/*",
+        "https://jutsu*.ru/*"
     ]
 }
